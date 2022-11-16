@@ -1,0 +1,14 @@
+{
+  "name": "@d3/kernel-density-estimation",
+  "main": "b7775f8549afff6b@134.js",
+  "version": "134.0.0",
+  "homepage": "https://observablehq.com/@d3/kernel-density-estimation",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

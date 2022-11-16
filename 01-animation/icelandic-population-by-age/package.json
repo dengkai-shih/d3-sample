@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/icelandic-population-by-age-1841-2019",
+  "main": "4148d814f94a4c11@247.js",
+  "version": "247.0.0",
+  "homepage": "https://observablehq.com/@mbostock/icelandic-population-by-age-1841-2019",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

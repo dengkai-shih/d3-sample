@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\01-animation\icelandic-population-by-age\files\dd79a7e7eefde86c444a69a1cd55085c953a6c5cab6aa2b99e95a7754ee182e6786c02652dd180a55d9c2f85681c98d5de789e6d9cf7410eb13c17a9de3f755e.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
